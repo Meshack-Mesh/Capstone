@@ -1,13 +1,13 @@
 e# Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
-> http://localhost:63342/Mesh/index.html?_ijt=prm88ekjn7eja7cegbfnhbmfmq&_ij_reload=RELOAD_ON_SAVE
+> http://localhost:63342/Mesh/index.html?_ijt=prm88ekjn7eja7cegbfnhbmfmq&_ij_
 
 
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="http://localhost:63342/Mesh/index.html?_ijt=jr39e9bei2vfvi1qfkl2gr3bu5&_ij" target="_blank"><img src="examples/preview.gif">
+    <a href="http://localhost:63342/Mesh/index.html?_ijt=jr39e9bei2vfvi1qfkl2gr3bu5&_ij_" target="_blank"><img src="examples/preview.gif">
   </a>
   </kbd>
 </p>
