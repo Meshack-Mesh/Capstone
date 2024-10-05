@@ -1,14 +1,8 @@
 e# Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
-> https://github.com/Meshack-Mesh/Capstone
+> http://localhost:63342/Mesh/index.html?_ijt=prm88ekjn7eja7cegbfnhbmfmq&_ij_reload=RELOAD_ON_SAVE
 
-![GitHub stars](https://img.shields.io/github/stars/http://localhost:63342/Mesh/index.html?_ijt=jr39e9bei2vfvi1qfkl2gr3bu5&_ij) 
-![GitHub forks](https://img.shields.io/github/forks/varadbhogayata/varadbhogayata.github.io)
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/Meshack_Mesh)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](https://github.com/Meshack_Mesh)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/meshack-mwima-)
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ### Website Preview
 <p align="center"> 
