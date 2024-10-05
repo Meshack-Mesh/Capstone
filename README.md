@@ -1,12 +1,12 @@
 e# Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
-> https://meshack-mesh.github.io/Capstoneproject.github.io/
+> 
 
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://meshack-mesh.github.io/Capstoneproject.github.io/" target="_blank"><img src="examples/preview.png">
+    <a href="https://meshack-mesh.github.io/capstoneproject.github.io/" target="_blank"><img src="examples/preview.png">
   </a>
   </kbd>
 </p>
